@@ -13,6 +13,7 @@ const Header = () => {
             <div className="header--nav">
             <img src={logo} alt="" />
 
+
             <NavLink>Categories</NavLink>
             <NavLink>Recent</NavLink>
             <NavLink>Books</NavLink>
